@@ -1,0 +1,2 @@
+Curation Comment	Study Owner	Study Source	Study Source ID	Study Type	Target Disease
+NA	fischa33	GTEx	GTEx V7	Preclinical Safety Study	Adenoma

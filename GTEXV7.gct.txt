@@ -1,0 +1,2 @@
+Experimental Platform	Expression Source	Genome Version	Normalization Method	Scale	Source ID	Transcriptomics Source
+Illumina TrueSeq.v1 | HiSeq 2000 | HiSeq2500	test source	hg19	Gene reads	"Unknown "	GTEx V7	GTEx
